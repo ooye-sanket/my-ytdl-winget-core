@@ -1,0 +1,10 @@
+Id: MyCompany.MyYTDL
+Publisher: MyCompany
+Name: My YouTube Downloader
+Version: 1.0.0
+License: MIT
+Installers:
+  - Arch: x64
+    Url: https://github.com/ooye-sanket/my-ytdl-core
+    Sha256: d834c7d7b58b5a34b6b09d058318ad4a1c57d5db74cdfb8a97ba7fc30e7be7ff
+    InstallerType: zip
