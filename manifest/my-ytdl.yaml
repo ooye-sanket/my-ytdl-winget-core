@@ -1,7 +1,7 @@
-Id: MyCompany.MyYTDL
-Publisher: MyCompany
-Name: My YouTube Downloader
-Version: 1.0.0
+Id: ooyesanket.MyYTDL
+Publisher: ooyesanket
+Name: YouTube Downloader
+Version: 1.0.1
 License: MIT
 Installers:
   - Arch: x64
